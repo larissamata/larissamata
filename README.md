@@ -17,7 +17,7 @@
       e aplicar boas práticas para resolver problemas de forma eficaz e escalável. 
     </td>
     <td>
-      <img src="https://s4.ezgif.com/tmp/ezgif-40ea2ea8fc7222.gif" 
+      <img src="https://raw.githubusercontent.com/larissamata/larissamata/refs/heads/main/ezgif.com-speed.gif" 
            alt="hands typing" width="443" height="357">
     </td>
   </tr>
