@@ -7,7 +7,7 @@
   <tr>
     <td style="text-align: justify;">
     <p align="center"><strong>Sou apaixonada por tecnologia e inovação!</strong> 💻✨<br><br></p>
-      Atualmente estou em transição para a área de <strong>desenvolvimento fullstack.</strong>
+      Atualmente estou em transição para a área de <strong>desenvolvimento full stack.</strong>
       Tenho uma base sólida em <strong>Java</strong> e <strong>Spring Boot</strong>, além de experiência prática 
       na criação de APIs REST, modelagem de bancos de dados SQL e uso de metodologias ágeis 
       como Scrum.<br><br>
